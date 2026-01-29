@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 Currently learning Java,Python,HTML,C language<br>🎯 Goals: Succesful Person<br>🎲 Fun fact: Giving my fullest to get what i Dream off </p>
+<p align="left">✨ Coding since 2022<br>📚 Currently learning Java,Python,HTML,C language<br>🎯 Goals: Successful Person<br>🎲 Fun fact: Giving my fullest to get what i Dream off </p>
 
 ###
 
